@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Tracker (Rekap Nilai Mahasiswa)
 
 Student Performance Tracker adalah sebuah aplikasi CLI (Command-Line Interface) sederhana yang dibangun dengan Python. Program ini berfungsi untuk memuat, mengelola, dan merekapitulasi data kehadiran serta nilai akademik mahasiswa dari beberapa file CSV.
@@ -15,3 +16,7 @@ Program ini memiliki antarmuka berbasis menu yang memungkinkan pengguna untuk:
 * **5. Lihat Rekap (Terminal)**: Menampilkan tabel rekapitulasi performa semua mahasiswa (NIM, Nama, Hadir, Nilai Akhir, Predikat) langsung di terminal.
 * **6. Simpan Laporan Markdown**: Mengekspor tabel rekapitulasi ke dalam sebuah file bernama `out/report.md`.
 * **7. Keluar**: Menghentikan aplikasi.
+=======
+# student_performance_tracker
+tugas phyton
+>>>>>>> e3fccf79812e8eb1d6f9e921fe0b2edb9fcad243
