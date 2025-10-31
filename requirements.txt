@@ -1,0 +1,3 @@
+# Tidak ada library eksternal yang diperlukan untuk menjalankan program ini.
+# Semua modul (csv, os, sys) adalah bagian dari Python Standard Library.
+# (Tambahkan 'rich' atau 'pdoc' jika menggunakan bonus)
